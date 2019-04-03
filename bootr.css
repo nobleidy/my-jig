@@ -1,0 +1,17 @@
+.my-own-nav-link {
+    padding: 0 25px !important;
+    border-right: 1px solid  rgba(48, 52, 51, 0.7);
+}
+li:last-of-type .my-own-nav-link {
+    padding: 0 25px !important;
+    border-right: none;
+}
+
+.logo {
+    width: 70px;
+    height: 40px;
+}
+
+ul li a{
+    
+}
